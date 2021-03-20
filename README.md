@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Youngzi Koo 👋
 
-<!--
-**Dinoryong/dinoryong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+## Here are things about me
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +12,22 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+
+## My Github Stats
+
+[![Dinoryong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dinoryong)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+## Now Playing
+
+[![Spotify](https://dinoryong.vercel.app/api/spotify)](https://open.spotify.com/user/314vlno46fhwd36qfvsekrzdcwne)
+
+
+
+
+
