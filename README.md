@@ -2,6 +2,20 @@
 
 
 
+[![Dinoryong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dinoryong)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+## Now Playing
+
+[![Spotify](https://dinoryong.vercel.app/api/spotify)](https://open.spotify.com/user/314vlno46fhwd36qfvsekrzdcwne)
+
+
+
+## Recent Posts
+
+
+
 ## Here are things about me
 
 - 🔭 I’m currently working on ...
@@ -12,24 +26,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-
-## Github Stats
-
-[![Dinoryong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dinoryong)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-## Now Playing
-
-[![Spotify](https://dinoryong.vercel.app/api/spotify)](https://open.spotify.com/user/314vlno46fhwd36qfvsekrzdcwne)
-
-
-
-
-
-## Recent Posts
 
