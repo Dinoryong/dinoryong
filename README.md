@@ -6,11 +6,6 @@
 
 
 
-## Now Playing
-
-[![Spotify](https://dinoryong.vercel.app/api/spotify)](https://open.spotify.com/user/314vlno46fhwd36qfvsekrzdcwne)
-
-
 
 ## Recent Posts
 
@@ -18,8 +13,8 @@
 
 ## Here are things about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... 
+- 🔭 I’m currently applying for a software developer job position.
+- 🌱 I’m currently learning python, javascript, react and definitely computer science basics.
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: email me (it's written on left side)
 
