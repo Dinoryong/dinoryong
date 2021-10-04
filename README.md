@@ -15,6 +15,6 @@
 
 - 🔭 I’m currently applying for a software developer job position.
 - 🌱 I’m currently learning python, javascript, react and definitely computer science basics.
-- 💬 Ask me about ...
+- 💬 Ask me about me anything...
 - 📫 How to reach me: email me (it's written on left side)
 
