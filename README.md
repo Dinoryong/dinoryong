@@ -7,8 +7,8 @@
 
 
 
-## Recent Posts
-- 1 post per day ... 365 day challenge..
+## Weekly Post
+- [SSWR](https://github.com/Dinoryong/SSWR/blob/main/README.md)
 
 
 ## Here are things about me
