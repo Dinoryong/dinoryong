@@ -7,7 +7,7 @@
 
 
 
-## Weekly Post
+## Weekly Posts
 - [SSWR](https://github.com/Dinoryong/SSWR/blob/main/README.md)
 
 
