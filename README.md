@@ -8,7 +8,7 @@
 
 
 ## Weekly Posts
-- [SSWR](https://github.com/Dinoryong/SSWR/blob/main/2022/SSWR_2022_05_week1.md)
+- [SSWR](https://github.com/Dinoryong/SSWR/blob/main/SSWR_2022_06_week1)
 
 
 ## Here are things about me
