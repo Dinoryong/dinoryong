@@ -6,9 +6,10 @@
 
 
 
-
+  
 ## Weekly Posts
-- [SSWR](https://github.com/Dinoryong/SSWR/blob/main/SSWR_2022_06_week1)
+- [SSWR]()
+- currently on project [hana](https://github.com/Dinoryong/test_hana)
 
 
 ## Here are things about me
